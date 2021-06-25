@@ -6,44 +6,6 @@
   padding: 0;
 }
 
-body {
-  color: var(--main-text-color);
-  font-family: var(--main-font);
-  font-style: normal;
-  font-weight: normal;
-  letter-spacing: 0.03em;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-
-.text {
-  margin: 0;
-  padding-top: 10px;
-}
-
-.container {
-  width: 1200px;
-  padding-left: 15px;
-  padding-right: 15px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 /* header */
 
 .header {
@@ -242,14 +204,6 @@ img {
 }
 
 /* Особенности */
-
-.hidden {
-  position: absolute;
-  clip: rect(0 0 0 0);
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-}
 
 .specifics {
   padding-top: 94px;
